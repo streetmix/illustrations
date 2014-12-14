@@ -1,7 +1,9 @@
 Streetmix illustrations
 =======================
 
-Converted to SVG from Adobe Illustrator, work in progress.
+Converted to SVG from original source illustrations, work in progress.
+
+Up until now we have been doing everything in Adobe Illustrator, but in the conversion process I've updated all the canonical "source" vector files to [Affinity Designer](https://affinity.serif.com/), which has a really smooth workflow for designing vector images that are intended to convert to a pixel view, and is much more precise than Illustrator is. Plus, its SVG export is really clean and minimal, and the source files are an order of magnitude less space consuming than Illustrator files. I may add the Affinity source files into this repository in the future if the demand is there and if source control is the appropriate place to put them.
 
 
 ## Styleguide
