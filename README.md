@@ -8,6 +8,8 @@ Converted to SVG from Adobe Illustrator, work in progress.
 
 TODO
 
+- Swatches are provided in Adobe ASE format in the `swatches` folder. These were extracted from an Illustrator file and are not completely verified for accuracy or completeness. There are a lot of colors used in current illustrations that are obtained by adding a tint to it, and tints are not exchangeable in the ASE format, so colors that are really tints may not be 100% accurate in the swatch.
+
 
 ## Technical guidelines and notes
 
