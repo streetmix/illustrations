@@ -25,6 +25,9 @@ TODO
 - If exported SVG has fills that look like a node is missing, make sure the shape has a closed path.
 
 
+## Other artwork
+- [Icons](https://github.com/streetmix/icons)
+
 ## Credits
 
 - **Art direction** Katie Lewis (@katielewis) - Cars, bus, streetcar, mixed use apartment buildings, people, trees, plants, modern lamp post, bikes, bike racks, bicyclists, parklet variant
