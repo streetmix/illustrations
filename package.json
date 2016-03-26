@@ -1,0 +1,22 @@
+{
+  "name": "streetmix-illustrations",
+  "version": "0.3.0",
+  "description": "Streemix artwork SVG build process",
+  "public": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/streetmix/illustrations.git"
+  },
+  "scripts": {
+    "prepublish": "gulp"
+  },
+  "license": "BSD-3-Clause",
+  "engines": {
+    "node": ">=4.0.0",
+    "npm": ">=2.14.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-svg-sprite": "^1.2.5"
+  }
+}
