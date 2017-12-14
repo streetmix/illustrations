@@ -1,8 +1,7 @@
 {
-  "name": "streetmix-illustrations",
+  "name": "@streetmix/illustrations",
   "version": "0.3.0",
   "description": "Streemix artwork SVG build process",
-  "public": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/streetmix/illustrations.git"
