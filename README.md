@@ -24,6 +24,10 @@ Up until now we have been doing everything in Adobe Illustrator, but in the conv
 - Similarly, expand strokes to shapes to make sure they scale properly
 - If exported SVG has fills that look like a node is missing, make sure the shape has a closed path.
 
+### Note about sky files
+
+Opening them in Affinity Design and then saving it back out at SVG seems to affect the gradient tinting in a bad way. Don't do it.
+
 
 ## Other artwork
 - [Icons](https://github.com/streetmix/icons)
