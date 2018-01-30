@@ -1,3 +1,7 @@
+# v0.3.3
+
+- Add arrow and sharrow markings
+
 # v0.3.2
 
 - Add ground textures
