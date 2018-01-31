@@ -1,3 +1,11 @@
+# v0.3.4
+
+- Light rail: fix geometry at top left of sprite; align wheels with track
+- Raised transit shelter: fix incorrect shade of green
+- Tree: align trunk with center of sprite
+- Fenced lot: add dirt
+- Grass lot: add new sprite
+
 # v0.3.3
 
 - Add arrow and sharrow markings
