@@ -1,3 +1,9 @@
+# v0.3.5
+
+- Apartment and residential buildings: adjust viewboxes, fix inprecise pixel alignments and colors
+- Biker: align center of wheel with center of sprite viewbox
+- Inception train: align wheels with center of sprite viewbox
+
 # v0.3.4
 
 - Light rail: fix geometry at top left of sprite; align wheels with track
