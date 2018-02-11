@@ -20,7 +20,7 @@ Up until now we have been doing everything in Adobe Illustrator, but in the conv
 - Group layers and elements as needed and name them with the same standards as naming HTML ids - `lower-case-with-dashes` (no spaces, no Sentence case or Title Case, no camelCase, no under_scores)
 - Group everything into a single containing group (Affinity Designer will add one anyway) and name with the name of the item. (Adobe Illustrator wraps an SVG with its own layer; do not use it)
 - The best export option right now appears to be exporting from Affinity Designer to SVG and select "Export for editability."" It creates a nice small SVG cleanly formatted without Adobe's cruft.
-- Keep things simple. No fonts, no bitmap images, try to reduce masks and complex shapes if possible.
+- Keep things simple. No fonts, no bitmap images, try to reduce masks and complex shapes if possible. **NOTE**: Embedded images will not render on the canvas in Firefox.
 - Similarly, expand strokes to shapes to make sure they scale properly
 - If exported SVG has fills that look like a node is missing, make sure the shape has a closed path.
 

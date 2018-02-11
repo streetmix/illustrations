@@ -1,3 +1,7 @@
+# v0.3.6
+
+- Light rail (outbound): remove image definition inside of SVG
+
 # v0.3.5
 
 - Apartment and residential buildings: adjust viewboxes, fix inprecise pixel alignments and colors
