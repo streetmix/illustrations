@@ -1,3 +1,7 @@
+# v0.3.7
+
+- Add a new image for **missing** sprites
+
 # v0.3.6
 
 - Light rail (outbound): remove image definition inside of SVG
