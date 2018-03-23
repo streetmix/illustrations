@@ -1,3 +1,7 @@
+# v0.3.8
+
+- Add angled parking sprites
+
 # v0.3.7
 
 - Add a new image for **missing** sprites
