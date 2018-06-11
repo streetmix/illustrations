@@ -1,3 +1,7 @@
+# v0.4.1
+
+- (bug) fix broken curb images
+
 # v0.4.0
 
 - Add bikeshare station
