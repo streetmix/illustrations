@@ -1,3 +1,12 @@
+# v0.4.0
+
+- Add bikeshare station
+- Add taxi pickup
+- Add rideshare pickup
+- Add food truck
+- Add curbside waiting area
+- Update dependencies
+
 # v0.3.8
 
 - Add angled parking sprites
