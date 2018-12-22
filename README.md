@@ -34,11 +34,13 @@ Opening them in Affinity Design and then saving it back out at SVG seems to affe
 
 ## Credits
 
-- **Art direction** Katie Lewis (@katielewis) - Cars, bus, streetcar, mixed use apartment buildings, people, trees, plants, modern lamp post, bikes, bike racks, bicyclists, parklet variant
+- **Art direction** Katie Lewis (@katielewis) - Cars, bus, streetcar, mixed use apartment buildings, people, trees, plants, modern lamp post, bikes, bike racks, bicyclists, parklet variant, flex zone items
 - **Contributors**
   - Marcin Wichary (@mwichary) - light rail, truck, additional people and bicyclists, icons and road markings
   - Lou Huang (@louh) - parklet, traditional lamp post, parking lot, single family residence, NYC wayfinding pylons, Inception train, waterfront, construction items, bus shelters, bollard and dome
   - Doneliza Joaquin (@djoaquin) - fenced lot
+  - [Jon Reese](https://jonreese.com) - vectorized sky and lane markings
+  - Brian Wamsley - utility pole (prototype)
 
 
 ## License
