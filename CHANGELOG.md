@@ -1,6 +1,7 @@
 # v0.5.0
 
 - Add utility pole
+- (bug) fix missing side mirrors on outbound taxi and rideshare vehicles 
 
 # v0.4.1
 
