@@ -40,8 +40,7 @@ Opening them in Affinity Design and then saving it back out at SVG seems to affe
   - Lou Huang (@louh) - parklet, traditional lamp post, parking lot, single family residence, NYC wayfinding pylons, Inception train, waterfront, construction items, bus shelters, bollard and dome
   - Doneliza Joaquin (@djoaquin) - fenced lot
   - [Jon Reese](https://jonreese.com) - vectorized sky and lane markings
-  - Brian Wamsley - utility pole (prototype)
-
+  - Brian Wamsley (Hamilton County Planning and Development Department) - utility pole (prototype)
 
 ## License
 
