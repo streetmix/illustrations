@@ -1,3 +1,10 @@
+# v0.6.0-alpha1
+
+- Utility pole: more tweaks
+- Scooters: add first draft of scooters
+- Sky: add updated cloud assets
+- Stars: add new stars background
+
 # v0.5.1
 
 - Utility pole: tweaks
