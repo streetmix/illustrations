@@ -1,3 +1,7 @@
+# v0.6.0
+
+- Scooters: add final scooters
+
 # v0.6.0-alpha1
 
 - Utility pole: more tweaks
