@@ -6,6 +6,11 @@
     "type": "git",
     "url": "https://github.com/streetmix/illustrations.git"
   },
+  "files": [
+    "dist",
+    "images",
+    "swatches"
+  ],
   "scripts": {
     "prepare": "gulp",
     "start": "gulp"
