@@ -1,3 +1,11 @@
+# v0.7.0
+
+- Add moon artwork
+- Lane markings have been extended so that they can work at curb height
+- Added "half-height" lane markings and a horizontal marking
+- Update dependencies
+- Streamline package contents for distribution
+
 # v0.6.0
 
 - Scooters: add final scooters
