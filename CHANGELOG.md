@@ -1,3 +1,7 @@
+# v0.7.1
+
+- Properly remove *.afdesign files from distro
+
 # v0.7.0
 
 - Add moon artwork
