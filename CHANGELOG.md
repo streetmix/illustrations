@@ -1,3 +1,7 @@
+# v0.7.2
+
+- Scooters: add kickstand, update "logo" shape
+
 # v0.7.1
 
 - Properly remove *.afdesign files from distro
