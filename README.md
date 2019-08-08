@@ -8,7 +8,7 @@ Up until now we have been doing everything in Adobe Illustrator, but in the conv
 
 ## Styleguide
 
-**For design guidelines and colors see the [Illustration guide](https://streetmix.readme.io/docs/illustrations).**
+**For design guidelines and colors see the [Illustration guide](https://streetmix.readthedocs.io/en/latest/contributing/illustrations/).**
 
 - Swatches are provided in Adobe ASE format in the `swatches` folder. These were extracted from an Illustrator file and are not completely verified for accuracy or completeness. There are a lot of colors used in current illustrations that are obtained by adding a tint to it, and tints are not exchangeable in the ASE format, so colors that are really tints may not be 100% accurate in the swatch.
 
@@ -49,4 +49,4 @@ Opening them in Affinity Design and then saving it back out at SVG seems to affe
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-More on [licensing](http://guidebook.streetmix.net/faq/#license) at the Guidebook.
+More on [licensing](https://streetmix.readthedocs.io/en/latest/support/faq/#what-is-the-end-user-license).
