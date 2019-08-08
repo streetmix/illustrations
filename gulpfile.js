@@ -23,8 +23,7 @@ var svgConfig = {
 var glob = [
   'images/**/*.svg',
   // Ignore
-  '!images/vehicles/fat-car-*.svg',
-  '!images/guidebook/*.svg'
+  '!images/vehicles/fat-car-*.svg'
 ]
 
 gulp.task('default', function () {
