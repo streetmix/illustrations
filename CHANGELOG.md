@@ -1,3 +1,7 @@
+# v0.8.1
+
+- Fix: revert a change to build system that caused images to have incorrect ids.
+
 # v0.8.0
 
 - The construction update:
