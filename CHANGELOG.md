@@ -1,3 +1,11 @@
+# v0.8.0
+
+- The construction update:
+  - Traffic cone: increase size for legibility, remove hole "shadow"
+  - Jersey barrier (plastic): replace reflective bulb
+  - Jersey barrier (concrete): adjust colors
+  - all (including barrier): svg viewbox dimensions are shorter
+
 # v0.7.2
 
 - Scooters: add kickstand, update "logo" shape
