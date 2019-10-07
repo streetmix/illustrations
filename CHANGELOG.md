@@ -1,3 +1,8 @@
+# v0.9.0
+
+- Add autonomous vehicle
+- Add magic carpet
+
 # v0.8.1
 
 - Fix: revert a change to build system that caused images to have incorrect ids.
