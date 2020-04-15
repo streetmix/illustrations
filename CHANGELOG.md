@@ -1,5 +1,6 @@
 # v1.0.0 (future)
 
+- **Breaking:** No longer compiles a bundled svg.
 - Add multicoloured flowers
     - **Breaking:** Old generic "flowers" id removed.
 

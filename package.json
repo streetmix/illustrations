@@ -7,21 +7,16 @@
     "url": "https://github.com/streetmix/illustrations.git"
   },
   "files": [
-    "dist",
     "images",
     "swatches"
   ],
   "scripts": {
-    "prepare": "gulp",
-    "start": "gulp"
+    "start": "echo Nothing to run!"
   },
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=8.0.0",
     "npm": ">=5.0.0"
   },
-  "devDependencies": {
-    "gulp": "4.0.2",
-    "gulp-svg-sprite": "1.5.0"
-  }
+  "devDependencies": {}
 }
