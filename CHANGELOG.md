@@ -1,3 +1,8 @@
+# v1.0.0 (future)
+
+- Add multicoloured flowers
+    - **Breaking:** Old generic "flowers" id removed.
+
 # v0.9.0
 
 - Add autonomous vehicle
