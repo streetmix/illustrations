@@ -1,8 +1,12 @@
 # v1.0.0 (future)
 
 - **Breaking:** No longer compiles a bundled svg.
+- Add outbound autonomous vehicle
+- Add Junebug and Johnny motorbike vehicle and pedestrians
+- Add left/right/straight turn arrow
 - Add multicoloured flowers
     - **Breaking:** Old generic "flowers" id removed.
+- Update moon illustration to better fit artistic direction
 
 # v0.9.0
 
