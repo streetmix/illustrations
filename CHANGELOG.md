@@ -1,11 +1,12 @@
 # v1.0.0 (future)
 
-- **Breaking:** No longer compiles a bundled svg.
+- **Breaking:** No longer compiles a bundled svg
 - Add outbound autonomous vehicle
 - Add Junebug and Johnny motorbike vehicle and pedestrians
 - Add left/right/straight turn arrow
 - Add multicoloured flowers
-    - **Breaking:** Old generic "flowers" id removed.
+    - **Breaking:** Old generic "flowers" id removed
+- Add European-style building type
 - Update moon illustration to better fit artistic direction
 - Update swatches:
     - Add GIMP GPL palette format.
@@ -18,7 +19,7 @@
 
 # v0.8.1
 
-- Fix: revert a change to build system that caused images to have incorrect ids.
+- Fix: revert a change to build system that caused images to have incorrect ids
 
 # v0.8.0
 
