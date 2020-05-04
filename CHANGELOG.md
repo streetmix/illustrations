@@ -7,6 +7,9 @@
 - Add multicoloured flowers
     - **Breaking:** Old generic "flowers" id removed.
 - Update moon illustration to better fit artistic direction
+- Update swatches:
+    - Add GIMP GPL palette format.
+    - Update Adobe Swatch Exchange (ASE) format.
 
 # v0.9.0
 
