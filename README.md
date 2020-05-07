@@ -10,9 +10,8 @@ Up until now we have been doing everything in Adobe Illustrator, but in the conv
 
 **For design guidelines and colors see the [Illustration guide](https://streetmix.readthedocs.io/en/latest/contributing/illustrations/).**
 
-- Swatches are provided in Adobe Swatch Exchange (ASE) format in the `swatches` folder. These were extracted from an Illustrator file and are not completely verified for accuracy or completeness. There are a lot of colors used in current illustrations that are obtained by adding a tint to it, and tints are not exchangeable in the ASE format, so colors that are really tints may not be 100% accurate in the swatch. ASE files can be imported to Illustrator and Affinity Designer.
-  - We've also added a palette in the GIMP GPL format, which is compatible with open source image editors (e.g. GIMP, Inkscape, Krita). This is more up-to-date than the ASE file right now.
-
+- Swatches are provided in Adobe Swatch Exchange (ASE) format in the `swatches` folder. ASE files can be imported to Illustrator and Affinity Designer.
+- We've also added a palette in the GIMP GPL format, which is compatible with open source image editors (e.g. GIMP, Inkscape, Krita).
 
 ## Technical guidelines and notes
 
@@ -43,7 +42,7 @@ Opening them in Affinity Design and then saving it back out at SVG seems to affe
   - [Jon Reese](https://jonreese.com) - vectorized sky and lane markings
   - Brian Wamsley (Hamilton County Planning and Development Department) - utility pole (prototype)
   - Claudio Olivares Medina - autonomous vehicle, magic carpet
-  - Enrico Ferreguti - European-style buildings
+  - Enrico Ferreguti - European-style arcade buildings
 
 ## License
 
