@@ -24,6 +24,12 @@ Up until now we have been doing everything in Adobe Illustrator, but in the conv
 - Similarly, expand strokes to shapes to make sure they scale properly
 - If exported SVG has fills that look like a node is missing, make sure the shape has a closed path.
 
+### Troubleshooting
+
+**canvas `drawImage` fails with a "NS_ERROR_NOT_AVAILABLE: Component is not available @ file" error in Firefox**
+
+Check the SVG contents to see if it contains a bitmap `<image>` tag. If so, remove it and try again.
+
 ### Note about sky files
 
 Opening them in Affinity Design and then saving it back out at SVG seems to affect the gradient tinting in a bad way. Don't do it.
