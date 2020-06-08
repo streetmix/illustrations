@@ -7,6 +7,9 @@
 - Add multicoloured flowers
     - **Breaking:** Old generic "flowers" id removed
 - Add European-style building type
+- Add autonomous shuttle
+- Add double decker bus
+- Add microvan (aka "kei" cars)
 - Update moon illustration to better fit artistic direction
 - Update swatches:
     - Add GIMP GPL palette format.
