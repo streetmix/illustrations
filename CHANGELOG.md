@@ -10,6 +10,7 @@
 - Add autonomous shuttle
 - Add double decker bus
 - Add microvan (aka "kei" cars)
+- Add bus rapid transit station and bus
 - Update moon illustration to better fit artistic direction
 - Update swatches:
     - Add GIMP GPL palette format.

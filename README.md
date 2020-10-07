@@ -47,7 +47,7 @@ Opening them in Affinity Design and then saving it back out at SVG seems to affe
   - Doneliza Joaquin (@djoaquin) - fenced lot
   - [Jon Reese](https://jonreese.com) - vectorized sky and lane markings
   - Brian Wamsley (Hamilton County Planning and Development Department) - utility pole (prototype)
-  - Claudio Olivares Medina - autonomous vehicle, magic carpet
+  - Claudio Olivares Medina - autonomous vehicle, magic carpet, bus rapid transit
   - Enrico Ferreguti - European-style arcade buildings
 
 ## License
