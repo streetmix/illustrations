@@ -12,6 +12,8 @@
 - Add microvan (aka "kei" cars)
 - Add bus rapid transit station and bus
 - Update moon illustration to better fit artistic direction
+- Add holodeck grid background
+- Add custom icons for environs selector UI
 - Update swatches:
     - Add GIMP GPL palette format.
     - Update Adobe Swatch Exchange (ASE) format.
