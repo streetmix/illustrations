@@ -1,3 +1,7 @@
+# v1.0.1
+
+- Fix: left/right/straight turn arrows were previously in rough draft form
+
 # v1.0.0
 
 - **Breaking:** No longer compiles a bundled svg
