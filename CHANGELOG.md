@@ -1,4 +1,4 @@
-# v1.0.0 (future)
+# v1.0.0
 
 - **Breaking:** No longer compiles a bundled svg
 - Add outbound autonomous vehicle
