@@ -1,9 +1,9 @@
 Streetmix illustrations
 =======================
 
-Converted to SVG from original source illustrations, work in progress.
+This is the canonical source of illustration assets for Streetmix.
 
-Up until now we have been doing everything in Adobe Illustrator, but in the conversion process I've updated all the canonical "source" vector files to [Affinity Designer](https://affinity.serif.com/), which has a really smooth workflow for designing vector images that are intended to convert to a pixel view, and is much more precise than Illustrator is. Plus, its SVG export is really clean and minimal, and the source files are an order of magnitude less space consuming than Illustrator files. I may add the Affinity source files into this repository in the future if the demand is there and if source control is the appropriate place to put them.
+These images were converted to SVG from original source illustrations in Adobe Illustrator. Currently the source vector files are in [Affinity Designer](https://affinity.serif.com/) format, which has a really smooth workflow for designing vector images, including pixel preview, and lets you place nodes much more precisely than you can in Illustrator. Plus, its SVG export is really clean and minimal, and the source files are an order of magnitude less space consuming than Illustrator files. The Affinity Designer source files are currently checked into this repository.
 
 
 ## Styleguide
@@ -15,20 +15,27 @@ Up until now we have been doing everything in Adobe Illustrator, but in the conv
 
 ## Technical guidelines and notes
 
-- Baseline units in Streetmix are 24px = 1 imperial foot (12px display size, 24px is 2x for Retina screens)
-- Artboard (svg) area should be defined (this will come into play when automating spritesheet creation). All sprite svgs should be equal to the dimensions set in the current tilesheets.
-- Group layers and elements as needed and name them with the same standards as naming HTML ids - `lower-case-with-dashes` (no spaces, no Sentence case or Title Case, no camelCase, no under_scores)
-- Group everything into a single containing group (Affinity Designer will add one anyway) and name with the name of the item. (Adobe Illustrator wraps an SVG with its own layer; do not use it)
-- The best export option right now appears to be exporting from Affinity Designer to SVG and select "Export for editability."" It creates a nice small SVG cleanly formatted without Adobe's cruft.
-- Keep things simple. No fonts, no bitmap images, try to reduce masks and complex shapes if possible. **NOTE**: Embedded images will not render on the canvas in Firefox.
-- Similarly, expand strokes to shapes to make sure they scale properly
-- If exported SVG has fills that look like a node is missing, make sure the shape has a closed path.
+- **Scale..** Illustrations use a scale of 24 pixels = 1 imperial foot.
+  - Illustrations will render at 12 CSS pixels = 1 imperial foot. This is a relic of the old raster-based spritesheet, as we needed 2x the pixels, but since converting to vector, that's no longer necessary. Still, we use the same units as the old spritesheet in order to preserve the rendering logic.
+- **Layers and grouping.**
+  - You are encouraged to group like shapes together to organize them.
+  - If a file contains multiple sprites, put each sprite on its own layer, and name it with an ID (similar to HTML ids - `lower-case-with-dashes` (no spaces, no Sentence case or Title Case, no camelCase, no under_scores)
+- **Exporting.**
+  - From Affinity Designer, export one layer at a time using default SVG export options. You will not need to worry about compressing the SVG. Streetmix uses a pipeline that runs [SVGO](https://github.com/svg/svgo) and bundles SVGs automatically.
+- **Avoid raw text.** Text will not render correctly if it depends on a system font. If text is required, make sure to convert the text to shapes first. However, please keep in mind our illustration guidelines, which discourage text in illustrations because it cannot be localized.
+- **Avoid embedded raster images.** These are not only very large, but they will not render on the canvas in Firefox.
+- **Expand strokes.** Strokes do not scale, so refrain from including shapes with strokes. If outlines are required, expand them to shapes first.
+- **Simplify shapes.** Shapes with an excess number of nodes increase file size and loading times. Make sure "simple" looking shapes do not have extra nodes that aren't needed. Combining overlapping polygons of the same color also saves space.
+- **Close all shapes.** If a shape does not have a properly closed path, the fill may not appear properly.
+- **Keep masks to a minimum.** Masks are sometimes necessary to create some effects, but avoid using more than necessary.
+
 
 ### Troubleshooting
 
 **canvas `drawImage` fails with a "NS_ERROR_NOT_AVAILABLE: Component is not available @ file" error in Firefox**
 
 Check the SVG contents to see if it contains a bitmap `<image>` tag. If so, remove it and try again.
+
 
 ### Note about sky files
 
@@ -37,6 +44,7 @@ Opening them in Affinity Design and then saving it back out at SVG seems to affe
 
 ## Other artwork
 - [Icons](https://github.com/streetmix/icons)
+
 
 ## Credits
 
@@ -50,8 +58,8 @@ Opening them in Affinity Design and then saving it back out at SVG seems to affe
   - Claudio Olivares Medina - autonomous vehicle, magic carpet, bus rapid transit
   - Enrico Ferreguti - European-style arcade buildings
 
-## License
 
+## License
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
