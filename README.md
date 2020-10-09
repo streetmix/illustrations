@@ -15,7 +15,7 @@ These images were converted to SVG from original source illustrations in Adobe I
 
 ## Technical guidelines and notes
 
-- **Scale..** Illustrations use a scale of 24 pixels = 1 imperial foot.
+- **Scale.** Illustrations use a scale of 24 pixels = 1 imperial foot.
   - Illustrations will render at 12 CSS pixels = 1 imperial foot. This is a relic of the old raster-based spritesheet, as we needed 2x the pixels, but since converting to vector, that's no longer necessary. Still, we use the same units as the old spritesheet in order to preserve the rendering logic.
 - **Layers and grouping.**
   - You are encouraged to group like shapes together to organize them.
