@@ -1,3 +1,11 @@
+# v1.1.0
+
+- Quality of life tweaks and fixes to the food truck:
+  - Window reflection for the left food truck flipped in the right direction
+  - Darker shade of window reflection lightened to match other windows
+  - Slightly shorter height of food truck patron
+  - Alternate "skin" for the left side food truck patron
+
 # v1.0.1
 
 - Fix: left/right/straight turn arrows were previously in rough draft form
