@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
-    <g id="aladdin-jasmine" transform="matrix(0.24,0,0,0.24,-324,-234)">
+<svg width="100%" height="100%" viewBox="0 0 180 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g id="aladdin-jasmine" transform="matrix(0.3048,0,0,0.3048,-412.92,-320.06)">
         <g transform="matrix(4.16667,0,0,4.16667,1732.92,1202.11)">
             <path d="M0,-3.524L-10.453,0.988L-9.869,-2.306L-8.478,-2.652L-0.985,-4.512L0,-3.524Z" style="fill:rgb(73,75,114);fill-rule:nonzero;"/>
         </g>
@@ -114,7 +114,7 @@
             <path d="M0,-17.443L-5.892,-15.996L-13.377,-9.513L-12.375,-2.889L-9.486,0L-0.015,-3.425L0,-3.42L0.015,-3.425L9.486,0L12.375,-2.889L13.377,-9.513L5.892,-15.996L0,-17.443Z" style="fill:rgb(245,243,233);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(4.16667,0,0,4.16667,1561.62,1200.11)">
-            <path d="M0,-4.601L-0.015,-4.606L-9.486,-1.182L-8.299,0.005L-5.629,-0.461L0,-1.444L5.629,-0.461L8.299,0.005L8.765,-0.461L9.486,-1.182L0.015,-4.606L0,-4.601Z" style="fill:rgb(73,75,114);fill-rule:nonzero;"/>
+            <path d="M0,-4.601L-0.015,-4.606L-9.486,-1.182L-8.299,0.005L-5.629,-0.461L0,-1.444L5.629,-0.461L8.299,0.005L9.486,-1.182L0.015,-4.606L0,-4.601Z" style="fill:rgb(73,75,114);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(4.16667,0,0,4.16667,1554.81,1164.8)">
             <path d="M0,-14.047L-1.846,-12.202L-1.846,-9.49L0.615,0L2.653,0L5.113,-9.49L5.113,-12.202L3.268,-14.047L0,-14.047Z" style="fill:rgb(73,75,114);fill-rule:nonzero;"/>

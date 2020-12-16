@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 360 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="foodtruck-left">
+<svg width="100%" height="100%" viewBox="0 0 450 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="foodtruck-left" transform="matrix(1.27,0,0,1.27,-3.6,-136.2)">
         <g transform="matrix(0.943534,0,0,0.943534,2.34361,20.3279)">
             <g transform="matrix(-1,0,0,1,302.306,118.426)">
                 <path d="M242.164,133.24L233.164,127.574L234.664,125.324L243.664,131.657L242.164,133.24Z" style="fill:rgb(91,96,97);fill-rule:nonzero;"/>
