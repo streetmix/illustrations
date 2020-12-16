@@ -1,1 +1,11 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="24px" height="168px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><g><g id="bollard" transform="matrix(0.5,0,0,0.5,0,48)"><path d="M11.9997,29.0004l-3,211l30,0l-3,-211l-5.299,-9.74l-13.4,-0.003l-5.301,9.743Z" style="fill:#ffe876;fill-rule:nonzero;"/><path d="M9,240l30,0l-28.685,-92.414l-1.315,92.414Z" style="fill:#ceba63;fill-rule:nonzero;"/><path d="M11.9004,36l12.1,2l12.099,-2l0.1,7l-12.199,2l-12.2,-2l0.1,-7Z" style="fill:#2a2b2a;fill-rule:nonzero;"/><path d="M11.957,32l12.043,2l12.043,-2l0.269,18.984l-12.312,2.016l-12.313,-2.016l0.27,-18.984Z" style="fill:#5c5e5f;fill-rule:nonzero;"/><path d="M27,29l8,0l-14.25,25l-7.75,0l14,-25Z" style="fill:#ffe876;fill-rule:nonzero;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 20 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="bollard" transform="matrix(0.635,0,0,0.635,-5.24,7.6)">
+        <path d="M12,29L9,240L39,240L36,29L30.701,19.26L17.301,19.257L12,29Z" style="fill:rgb(255,232,118);fill-rule:nonzero;"/>
+        <path d="M9,240L39,240L10.315,147.586L9,240Z" style="fill:rgb(206,186,99);fill-rule:nonzero;"/>
+        <path d="M11.9,36L24,38L36.099,36L36.199,43L24,45L11.8,43L11.9,36Z" style="fill:rgb(42,43,42);fill-rule:nonzero;"/>
+        <path d="M11.957,32L24,34L36.043,32L36.312,50.984L24,53L11.687,50.984L11.957,32Z" style="fill:rgb(92,94,95);fill-rule:nonzero;"/>
+        <path d="M27,29L35,29L20.75,54L13,54L27,29Z" style="fill:rgb(255,232,118);fill-rule:nonzero;"/>
+    </g>
+</svg>

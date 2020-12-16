@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 72 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g id="biker-02-inbound" transform="matrix(0.5,0,0,0.5,-2363.1,-239.75)">
+<svg width="100%" height="100%" viewBox="0 0 80 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="biker-02-inbound" transform="matrix(0.635,0,0,0.635,-3006.86,-368.322)">
         <g transform="matrix(2.00022,0,0,2.00022,-4916.63,-863.694)">
             <path d="M4848.85,751.789L4861.68,751.049L4855.68,760.837L4848.85,751.789Z" style="fill:rgb(206,171,151);fill-rule:nonzero;"/>
         </g>
@@ -50,7 +50,7 @@
             <path d="M4853.19,753.093L4857.15,753.093L4861.56,748.594L4860.65,735.899L4848.32,736.506L4848.43,748.188L4853.19,753.093Z" style="fill:rgb(226,198,183);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(2.00022,0,0,2.00022,-4916.63,-863.694)">
-            <path d="M4832.79,783.603L4833.97,787.28L4839.91,788.763L4839.2,785.012L4841.24,785.168L4841.16,783.76L4833.11,781.96L4832.79,783.603Z" style="fill:rgb(226,198,183);fill-rule:nonzero;"/>
+            <path d="M4832.79,783.603L4833.97,787.28L4839.91,788.763L4839.2,785.011L4841.24,785.168L4841.16,783.76L4833.11,781.96L4832.79,783.603Z" style="fill:rgb(226,198,183);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(2.00022,0,0,2.00022,-4916.63,-863.694)">
             <path d="M4879.15,785.792L4878.45,787.044L4872.51,788.528L4873.21,784.775L4871.18,784.934L4871.26,783.526L4879.46,782.587L4879.15,785.792Z" style="fill:rgb(226,198,183);fill-rule:nonzero;"/>

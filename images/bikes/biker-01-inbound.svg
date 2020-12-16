@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 72 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g id="biker-01-inbound" transform="matrix(0.5,0,0,0.5,-2182.54,-239.75)">
+<svg width="100%" height="100%" viewBox="0 0 80 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="biker-01-inbound" transform="matrix(0.635,0,0,0.635,-2777.55,-368.322)">
         <g>
             <g transform="matrix(2.00022,0,0,2.00022,-4382.66,-863.694)">
                 <path d="M4401.35,751.789L4414.18,751.049L4408.18,760.837L4401.35,751.789Z" style="fill:rgb(84,62,54);fill-rule:nonzero;"/>
@@ -51,7 +51,7 @@
                 <path d="M4405.69,753.093L4409.65,753.093L4414.06,748.594L4413.15,735.899L4400.82,736.506L4400.93,748.188L4405.69,753.093Z" style="fill:rgb(114,89,75);fill-rule:nonzero;"/>
             </g>
             <g transform="matrix(2.00022,0,0,2.00022,-4382.66,-863.694)">
-                <path d="M4385.29,783.603L4386.47,787.28L4392.41,788.763L4391.7,785.012L4393.74,785.168L4393.66,783.76L4385.61,781.96L4385.29,783.603Z" style="fill:rgb(114,89,75);fill-rule:nonzero;"/>
+                <path d="M4385.29,783.603L4386.47,787.28L4392.41,788.763L4391.7,785.011L4393.74,785.168L4393.66,783.76L4385.61,781.96L4385.29,783.603Z" style="fill:rgb(114,89,75);fill-rule:nonzero;"/>
             </g>
             <g transform="matrix(2.00022,0,0,2.00022,-4382.66,-863.694)">
                 <path d="M4431.65,785.792L4430.95,787.044L4425.01,788.528L4425.71,784.775L4423.68,784.934L4423.76,783.526L4431.96,782.587L4431.65,785.792Z" style="fill:rgb(114,89,75);fill-rule:nonzero;"/>

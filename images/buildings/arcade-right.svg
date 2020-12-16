@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 768 732" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="arched-historical-right" transform="matrix(-1,0,0,1,768.186,0)">
+<svg width="100%" height="100%" viewBox="0 0 980 930" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="arcade-right" transform="matrix(-1.27,0,0,1.27,980.237,0.36)">
         <g id="upstairs-wall" serif:id="upstairs wall" transform="matrix(1,0,0,1.03169,0,-4.01457)">
             <rect x="0" y="126.681" width="741.312" height="247.192" style="fill:rgb(225,207,168);"/>
         </g>
@@ -456,7 +456,7 @@
                 <path d="M741.312,137.862L741.312,126.681L756.718,126.681L751.476,137.619L741.312,137.862Z" style="fill:rgb(217,212,203);fill-rule:nonzero;"/>
             </g>
             <g transform="matrix(1.02625,0,0,1.5472,224,537.267)">
-                <path d="M0,112.875L768.187,112.875L763.245,126.676L0,127.297L0,112.875Z" style="fill:rgb(246,243,234);fill-rule:nonzero;"/>
+                <path d="M-0,112.875L768.187,112.875L763.245,126.676L-0,127.297L-0,112.875Z" style="fill:rgb(246,243,234);fill-rule:nonzero;"/>
             </g>
         </g>
     </g>
