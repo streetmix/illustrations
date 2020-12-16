@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 288 312" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="brt-bus-inbound" transform="matrix(1,0,0,1,-34.2,-2.6)">
+<svg width="100%" height="100%" viewBox="0 0 360 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="brt-bus-inbound" transform="matrix(1.27,0,0,1.27,-46.314,-39.542)">
         <g transform="matrix(0.459284,0,0,0.459284,55.5343,45)">
             <path d="M26.56,224.93L0,215.8L0,80.43L26.56,71.51L26.56,224.93Z" style="fill:rgb(30,30,28);fill-rule:nonzero;"/>
         </g>

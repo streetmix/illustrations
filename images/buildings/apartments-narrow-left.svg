@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 432 624" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g id="apartments-narrow-left" transform="matrix(1,0,0,1,0,24)">
+<svg width="100%" height="100%" viewBox="0 0 550 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="apartments-narrow-left" transform="matrix(1.27,0,0,1.27,0,38)">
         <g transform="matrix(1,0,0,1,-1697.92,-320.875)">
             <path d="M2097.92,672.482L2126.92,671.311L2097.92,585.306L2097.92,672.482Z" style="fill:rgb(216,211,203);fill-rule:nonzero;"/>
         </g>
@@ -48,13 +48,13 @@
             <rect x="1899.89" y="462.692" width="65.172" height="5.403" style="fill:rgb(246,241,225);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(1,0,0,1,-1697.92,-320.875)">
-            <g opacity="0.300003">
+            <g opacity="0.3">
                 <path d="M1868.71,673.966L1804.53,737.936L1804.57,673.969L1868.71,673.966Z" style="fill:rgb(13,24,36);fill-rule:nonzero;"/>
             </g>
         </g>
         <g transform="matrix(1,0,0,1,-1697.92,-320.875)">
-            <g opacity="0.300003">
-                <path d="M2034.86,857.188L2034.86,691.004L1882.96,836.315L1870.15,857.192L2034.86,857.188Z" style="fill:rgb(13,24,36);fill-rule:nonzero;"/>
+            <g opacity="0.3">
+                <path d="M2034.86,857.188L2034.86,691.004L1882.96,836.314L1870.15,857.192L2034.86,857.188Z" style="fill:rgb(13,24,36);fill-rule:nonzero;"/>
             </g>
         </g>
         <g transform="matrix(1,0,0,1,-1697.92,-320.875)">
@@ -64,17 +64,17 @@
             <rect x="1916.97" y="673.943" width="7.436" height="186.316" style="fill:rgb(246,241,225);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(1,0,0,1,-1697.92,-320.875)">
-            <g opacity="0.300003">
+            <g opacity="0.3">
                 <path d="M1964.84,463.961L1900.51,528.08L1900.48,395.125L1964.8,395.125L1964.84,463.961Z" style="fill:rgb(13,24,36);fill-rule:nonzero;"/>
             </g>
         </g>
         <g transform="matrix(1,0,0,1,-1697.92,-320.875)">
-            <g opacity="0.300003">
+            <g opacity="0.3">
                 <path d="M2033.09,395.125L1970.76,457.248L1970.72,395.125L2033.09,395.125Z" style="fill:rgb(13,24,36);fill-rule:nonzero;"/>
             </g>
         </g>
         <g transform="matrix(1,0,0,1,-1697.92,-320.875)">
-            <g opacity="0.300003">
+            <g opacity="0.3">
                 <path d="M2035.01,534.922L2035.03,488.478L1986.55,534.916L2035.01,534.922Z" style="fill:rgb(13,24,36);fill-rule:nonzero;"/>
             </g>
         </g>

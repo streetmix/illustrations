@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 72 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g id="biker-01-outbound" transform="matrix(0.5,0,0,0.5,-2258.95,-239.75)">
+<svg width="100%" height="100%" viewBox="0 0 80 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="biker-01-outbound" transform="matrix(0.635,0,0,0.635,-2874.58,-368.322)">
         <g transform="matrix(2.00022,0,0,2.00022,-4384.39,-863.694)">
             <path d="M4484.76,816.084L4484.46,793.304L4487.87,793.313L4488.1,815.904L4484.76,816.084Z" style="fill:rgb(236,219,178);fill-rule:nonzero;"/>
         </g>
@@ -12,7 +12,7 @@
             <path d="M4502.39,823.5L4505.27,832.375L4503.1,835.974L4500.17,836.209L4498.02,833.063L4498.14,823.875" style="fill:rgb(219,218,215);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(2.00022,0,0,2.00022,-4384.39,-863.694)">
-            <path d="M4484.6,789.815L4487.66,789.853L4495.03,786.911L4494.59,784.839L4487.59,787.19L4484.56,787.228L4477.66,785.041L4477.22,787.329L4484.6,789.815Z" style="fill:rgb(232,205,119);fill-rule:nonzero;"/>
+            <path d="M4484.6,789.814L4487.66,789.853L4495.03,786.91L4494.59,784.839L4487.59,787.189L4484.56,787.228L4477.66,785.04L4477.22,787.329L4484.6,789.814Z" style="fill:rgb(232,205,119);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(2.00022,0,0,2.00022,-4384.39,-863.694)">
             <path d="M4495.87,785.214L4496.11,789.666L4511.61,788.185L4510.96,782.838L4495.87,785.214Z" style="fill:rgb(206,173,128);fill-rule:nonzero;"/>

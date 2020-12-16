@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 432 624" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g id="apartments-narrow-right" transform="matrix(1,0,0,1,3.0326,0)">
+<svg width="100%" height="100%" viewBox="0 0 550 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="apartments-narrow-right" transform="matrix(1.27,0,0,1.27,5.2114,7.52)">
         <g transform="matrix(1,0,0,1,-2186.19,-296.875)">
             <path d="M2186.7,671.436L2216.66,672.607L2215.65,585.306L2186.7,671.436Z" style="fill:rgb(205,172,128);fill-rule:nonzero;"/>
         </g>
@@ -48,7 +48,7 @@
             <rect x="2366.49" y="462.692" width="65.172" height="5.653" style="fill:rgb(92,95,96);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(1,0,0,1,-2183.66,-296.875)">
-            <g opacity="0.300003">
+            <g opacity="0.3">
                 <path d="M2275.75,673.956L2275.69,857.187L2318.6,857.174L2470.31,712.051L2502.51,673.937L2275.75,673.956Z" style="fill:rgb(13,24,36);fill-rule:nonzero;"/>
             </g>
         </g>
@@ -59,12 +59,12 @@
             <rect x="2386.14" y="673.938" width="7.436" height="186.321" style="fill:rgb(92,95,96);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(1,0,0,1,-2183.66,-296.875)">
-            <g opacity="0.300003">
+            <g opacity="0.3">
                 <path d="M2326.54,394.834L2275.05,446.16L2275.04,394.875L2326.54,394.834Z" style="fill:rgb(13,24,36);fill-rule:nonzero;"/>
             </g>
         </g>
         <g transform="matrix(1,0,0,1,-2183.66,-296.875)">
-            <g opacity="0.300003">
+            <g opacity="0.3">
                 <path d="M2431.05,534.734L2431.07,468.5L2422.69,468.496L2366.8,522.341L2366.76,534.937L2431.05,534.734Z" style="fill:rgb(13,24,36);fill-rule:nonzero;"/>
             </g>
         </g>
@@ -84,7 +84,7 @@
             <path d="M2210.91,335.44L2206.71,321.96L2206.73,310.563L2213.48,310.563L2213.48,321.96L2615.31,321.961L2615.31,335.46L2210.91,335.44Z" style="fill:white;fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(1,0,0,1,-2183.66,-296.875)">
-            <g opacity="0.300003">
+            <g opacity="0.3">
                 <path d="M2453.2,857.184L2506.05,804.475L2506.06,857.172L2453.2,857.184Z" style="fill:rgb(13,24,36);fill-rule:nonzero;"/>
             </g>
         </g>
