@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 216 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g id="transit-shelter-02-right" transform="matrix(0.5,0,0,0.5,-5.18455,-12)">
+<svg width="100%" height="100%" viewBox="0 0 270 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="transit-shelter-02-right" transform="matrix(0.635,0,0,0.635,-8.74438,-21)">
         <g id="pole">
             <path d="M20.74,600L44.903,600L36.088,33.71L23.549,39.049L20.74,600Z" style="fill:rgb(228,226,220);fill-rule:nonzero;"/>
             <path d="M44.905,600L20.738,600L40.963,396.603L44.905,600Z" style="fill:rgb(193,190,187);fill-rule:nonzero;"/>
