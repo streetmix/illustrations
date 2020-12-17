@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 96 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g id="person-large-light-left" transform="matrix(-1,0,-0,1,72.9106,206.375)">
-        <g id="Layer-1">
-            <path d="M1.485,37.432L9.851,43.369L12.391,41.368L12.391,41.366L2.329,34.471L1.485,37.432Z" style="fill:rgb(255,238,204);fill-opacity:0.701961;fill-rule:nonzero;"/>
-            <path d="M2.327,34.476L12.388,41.368L14.884,39.406L14.884,39.405L2.981,31.902L2.327,34.476Z" style="fill:rgb(255,238,204);fill-opacity:0.301961;fill-rule:nonzero;"/>
-            <path d="M0,39.626L9,45.292L10.5,43.71L1.5,37.376L0,39.626Z" style="fill:black;fill-rule:nonzero;"/>
+<svg width="100%" height="100%" viewBox="0 0 100 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="person-large-light-left" serif:id="person large light left" transform="matrix(-1.27,0,0,1.27,81.6364,4.89676)">
+        <g id="Layer-1" serif:id="Layer 1">
+            <path d="M1.485,37.432L9.851,43.369L12.391,41.368L12.391,41.366L2.329,34.471L1.485,37.432Z" style="fill:rgb(255,238,204);fill-opacity:0.7;fill-rule:nonzero;"/>
+            <path d="M2.326,34.476L12.387,41.368L14.884,39.406L14.884,39.405L2.981,31.902L2.326,34.476Z" style="fill:rgb(255,238,204);fill-opacity:0.3;fill-rule:nonzero;"/>
+            <path d="M0,39.626L9,45.292L10.5,43.71L1.5,37.376L0,39.626Z" style="fill-rule:nonzero;"/>
             <path d="M35.813,146.348L34.917,103.792L34.417,76.459L48.26,79.053L44.25,104.959L43.417,145.792L35.813,146.348Z" style="fill:rgb(207,174,129);fill-rule:nonzero;"/>
             <path d="M48.44,22.177L46.238,15.994L40.754,17.613L40.96,23.468L48.44,22.177Z" style="fill:rgb(170,139,126);fill-rule:nonzero;"/>
             <path d="M28.901,68.915L20.418,102.625L20.1,148.401L28.167,147.21L30.25,103.459L48.25,79.126L49.802,66.318L28.901,68.915Z" style="fill:rgb(224,206,168);fill-rule:nonzero;"/>

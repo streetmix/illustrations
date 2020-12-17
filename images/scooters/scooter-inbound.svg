@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 72 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g id="scooter-inbound" transform="matrix(1,0,0,1,-0.165365,0)">
+<svg width="100%" height="100%" viewBox="0 0 80 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="scooter-inbound" transform="matrix(1.27,0,0,1.27,-5.93001,-43.84)">
         <g transform="matrix(1,0,0,1,37.2686,143.584)">
             <path d="M0,-43.979L1.731,-7.458L1.325,0.026L6.356,0.104L12.958,-44.083L0,-43.979Z" style="fill:rgb(193,190,187);fill-rule:nonzero;"/>
         </g>
@@ -51,7 +51,7 @@
             <path d="M0,6.017L1.711,7.896L4.505,7.896L6.16,5.778L5.933,-0.799L4.221,-1.879L1.484,-1.879L-0.057,-0.561L0,6.017Z" style="fill:rgb(93,95,96);fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(1,0,0,1,-18,9)">
-            <g opacity="0.300003">
+            <g opacity="0.3">
                 <g transform="matrix(-0.00784186,-0.999969,-0.999969,0.00784186,57.6332,118.118)">
                     <clipPath id="_clip1">
                         <path d="M-5.338,6.142L-5.372,1.712L9.589,1.595L9.624,6.024L-5.338,6.142Z" clip-rule="nonzero"/>
