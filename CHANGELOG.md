@@ -1,3 +1,7 @@
+# v2.0.0-alpha
+
+- **BREAKING!** Segment illustrations have been been converted to metric scale. (See [issue #13](https://github.com/streetmix/illustrations/issues/13)) for details and migration notes.
+
 # v1.1.0
 
 - Quality of life tweaks and fixes to the food truck:
