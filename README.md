@@ -63,6 +63,6 @@ Opening them in Affinity Design and then saving it back out at SVG seems to affe
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 More on [licensing](https://streetmix.readthedocs.io/en/latest/support/faq/#what-is-the-end-user-license).
