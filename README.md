@@ -15,7 +15,7 @@ These images were converted to SVG from original source illustrations in Adobe I
 
 ## Technical guidelines and notes
 
-- **Scale.** Illustrations use a scale of 1 pixels = 1 centimeter.
+- **Scale.** Illustrations use a scale of 1 pixel = 1 centimeter.
 - **Layers and grouping.**
   - You are encouraged to group like shapes together to organize them.
   - If a file contains multiple sprites, put each sprite on its own layer, and name it with an ID (similar to HTML ids - `lower-case-with-dashes` (no spaces, no Sentence case or Title Case, no camelCase, no under_scores)
