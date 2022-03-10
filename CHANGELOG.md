@@ -1,6 +1,8 @@
 # v2.0.0-alpha
 
 - **BREAKING!** Segment illustrations have been been converted to metric scale. (See [issue #13](https://github.com/streetmix/illustrations/issues/13)) for details and migration notes.
+- **BREAKING:** The `ground/concrete-raised` asset is removed, and all ground textures have been resized to 100x100.
+- Add center lane marking
 
 # v1.1.0
 
@@ -22,7 +24,7 @@
 - Add Junebug and Johnny motorbike vehicle and pedestrians
 - Add left/right/straight turn arrow
 - Add multicoloured flowers
-    - **Breaking:** Old generic "flowers" id removed
+  - **Breaking:** Old generic "flowers" id removed
 - Add European-style building type
 - Add autonomous shuttle
 - Add double decker bus
@@ -32,8 +34,8 @@
 - Add holodeck grid background
 - Add custom icons for environs selector UI
 - Update swatches:
-    - Add GIMP GPL palette format.
-    - Update Adobe Swatch Exchange (ASE) format.
+  - Add GIMP GPL palette format.
+  - Update Adobe Swatch Exchange (ASE) format.
 
 # v0.9.0
 
