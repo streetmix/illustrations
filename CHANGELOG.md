@@ -1,3 +1,15 @@
+# v2.1.0
+
+- Add biker stress effects
+- Add street vendors
+- Add drainage channel
+- Add compound wall
+- Add alternative bus art (for background)
+
+# v2.0.0
+
+- See below.
+
 # v2.0.0-alpha
 
 - **BREAKING!** Segment illustrations have been been converted to metric scale. (See [issue #13](https://github.com/streetmix/illustrations/issues/13)) for details and migration notes.
