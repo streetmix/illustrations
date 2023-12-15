@@ -1,3 +1,7 @@
+# Deprecated
+
+This repository has been moved into the `packages` section of the main Streetmix repository: https://github.com/streetmix/streetmix/tree/main/packages/illustrations. This repository will be archived, and future updates will occur in the monorepo.
+
 Streetmix illustrations
 =======================
 
